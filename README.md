@@ -13,12 +13,12 @@
 
 GET /api/dog
 
-- Provides array of all dog objects
+- Provides array of all dog objectsgit u
 
 Example request/response:
 
 ```
-GET 
+GET /dog
 
 HTTP STATUS 200 OK
 
@@ -36,7 +36,7 @@ HTTP STATUS 200 OK
 ]
 ```
 
-Get /api/cat
+Get /cat
 
 - Provides array of all cat objects
 
@@ -61,7 +61,7 @@ HTTP STATUS 200 OK
 
 ```
 
-GET /api/people
+GET /people
 
 - Provides an array of all people
 
@@ -79,7 +79,7 @@ HTTP STATUS 200 OK
 
 ```
 
-POST /api/people
+POST /people
 
 - Creates a new person at the bottom of the list. Requires a request body
 
@@ -102,7 +102,7 @@ Response:
 
 ```
 
-DELETE /api/people
+DELETE /people
 
 - Delete person on the top of the line
 
@@ -121,7 +121,7 @@ Response:
 
 ```
 
-DELETE /api/dog
+DELETE /dog
 
 - DELETE dog at the top of the line
 
@@ -143,7 +143,7 @@ DELETE
 ]
 ```
 
-DELETE /api/cat
+DELETE /cat
 
 - DELETE cat at the top of the line
 
