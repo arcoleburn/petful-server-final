@@ -1,7 +1,7 @@
 # Petful Server
 
 - [Live App](https://petful-client-final.vercel.app/)
-
+- [Client Repo](https://github.com/arcoleburn/petful-client-final)
 ## Built With
 
 - Node
@@ -9,7 +9,7 @@
 
 ## API Documentation
 
-[BASE URL]()
+[BASE URL](http://petful-server.herokuapp.com/api/)
 
 GET /api/dog
 
