@@ -7,6 +7,14 @@
 - Node
 - Express
 
+
+## Summary 
+
+This is a small project showcasing the use of the Queue data structure. 
+
+Users are matched with pets to adopt on a first in, first out basis. The first user in line is the first to adopt, while the first pet in the shelter is the first to get adopted. 
+
+
 ## API Documentation
 
 [BASE URL](http://petful-server.herokuapp.com/api/)
